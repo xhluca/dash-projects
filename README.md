@@ -22,8 +22,7 @@ You can find below the list of the Dash Apps I have made while working at Plotly
 
 ## Screenshots
 ### t-SNE Explorer
-![tsne-1](images/tsne-1.gif)
-![tsne-2](images/tsne-2.gif)
+![tsne](images/tsne.gif)
 
 ### Live Model Training Viewer
 ![live-model-training](images/live-model-training.gif)
