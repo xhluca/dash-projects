@@ -1,7 +1,7 @@
-# My Dash Apps
-You can find below the list of the Dash Apps I have made while working at Plotly.
+# My Dash Apps & Components
+You can find below the list of the Dash Apps and Components I created.
 
-## Links
+## Apps
 **t-SNE Explorer**:
 [Link to Repo](https://github.com/plotly/dash-tsne) | [Demo App](https://dash-tsne.plot.ly/)
 
@@ -19,6 +19,13 @@ You can find below the list of the Dash Apps I have made while working at Plotly
 
 **Regression Explorer**:
 [Link to Repo](https://github.com/plotly/dash-regression) | [Demo App](https://dash-regression.herokuapp.com/)
+
+## Components
+**Dash Player**
+[Link to Repo](https://github.com/xhlulu/dash-player)
+
+**Dash Webcam**
+[Link to Repo](https://github.com/xhlulu/dash-webcam)
 
 ## Screenshots
 ### t-SNE Explorer
