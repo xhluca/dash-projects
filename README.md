@@ -3,7 +3,7 @@ You can find below the list of the Dash Apps and Components I created.
 
 ## Apps
 **t-SNE Explorer**:
-[Link to Repo](https://github.com/plotly/dash-tsne) | [Demo App](https://dash-tsne.plot.ly/)
+[Link to Repo](https://github.com/plotly/dash-tsne) | [Demo App](https://dash-tsne.plot.ly/) | 
 [![GitHub forks](https://img.shields.io/github/forks/plotly/dash-tsne.svg)](https://github.com/plotly/dash-tsne/network)
 [![GitHub stars](https://img.shields.io/github/stars/plotly/dash-tsne.svg)](https://github.com/plotly/dash-tsne/stargazers)
 
@@ -36,13 +36,13 @@ You can find below the list of the Dash Apps and Components I created.
 ## Components
 **Dash Player**
 [Link to Repo](https://github.com/xhlulu/dash-player) | 
-[![GitHub forks](https://img.shields.io/github/forks/plotly/dash-player.svg)](https://github.com/plotly/dash-player/network)
-[![GitHub stars](https://img.shields.io/github/stars/plotly/dash-player.svg)](https://github.com/plotly/dash-player/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/xhlulu/dash-player.svg)](https://github.com/xhlulu/dash-player/network)
+[![GitHub stars](https://img.shields.io/github/stars/xhlulu/dash-player.svg)](https://github.com/xhlulu/dash-player/stargazers)
 
 **Dash Webcam**
 [Link to Repo](https://github.com/xhlulu/dash-webcam) | 
-[![GitHub forks](https://img.shields.io/github/forks/plotly/dash-webcam.svg)](https://github.com/plotly/dash-webcam/network)
-[![GitHub stars](https://img.shields.io/github/stars/plotly/dash-webcam.svg)](https://github.com/plotly/dash-webcam/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/xhlulu/dash-webcam.svg)](https://github.com/xhlulu/dash-webcam/network)
+[![GitHub stars](https://img.shields.io/github/stars/xhlulu/dash-webcam.svg)](https://github.com/xhlulu/dash-webcam/stargazers)
 
 ## Screenshots
 ### t-SNE Explorer
