@@ -41,13 +41,13 @@ You can find below the list of the Dash Apps and Components I created.
 
 ## Components
 **Dash Player**
-[Link to Repo](https://github.com/xhlulu/dash-player)
+[Link to Repo](https://github.com/xhlulu/dash-player) | [Demo App](https://dash-player-usage.herokuapp.com/)
 
 [![GitHub forks](https://img.shields.io/github/forks/xhlulu/dash-player.svg)](https://github.com/xhlulu/dash-player/network)
 [![GitHub stars](https://img.shields.io/github/stars/xhlulu/dash-player.svg)](https://github.com/xhlulu/dash-player/stargazers)
 
 **Dash Webcam**
-[Link to Repo](https://github.com/xhlulu/dash-webcam)
+[Link to Repo](https://github.com/xhlulu/dash-webcam) | [Demo App](https://dash-webcam-usage.herokuapp.com/)
 
 [![GitHub forks](https://img.shields.io/github/forks/xhlulu/dash-webcam.svg)](https://github.com/xhlulu/dash-webcam/network)
 [![GitHub stars](https://img.shields.io/github/stars/xhlulu/dash-webcam.svg)](https://github.com/xhlulu/dash-webcam/stargazers)
