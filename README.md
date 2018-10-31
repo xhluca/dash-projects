@@ -40,17 +40,13 @@ You can find below the list of the Dash Apps and Components I created.
 [![GitHub stars](https://img.shields.io/github/stars/plotly/dash-regression.svg)](https://github.com/plotly/dash-regression/stargazers)
 
 ## Components
-**Dash Player**
-[Link to Repo](https://github.com/xhlulu/dash-player) | [Demo App](https://dash-player-usage.herokuapp.com/)
+[**Dash Player**](https://github.com/xhlulu/dash-player) - Dash Player is a dash component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia, Mixcloud, and DailyMotion. It is wrapped around the react-player component.
 
-[![GitHub forks](https://img.shields.io/github/forks/xhlulu/dash-player.svg)](https://github.com/xhlulu/dash-player/network)
-[![GitHub stars](https://img.shields.io/github/stars/xhlulu/dash-player.svg)](https://github.com/xhlulu/dash-player/stargazers)
+[**Dash Webcam**](https://github.com/xhlulu/dash-webcam) - Dash Component wrapping React-Webcam
 
-**Dash Webcam**
-[Link to Repo](https://github.com/xhlulu/dash-webcam) | [Demo App](https://dash-webcam-usage.herokuapp.com/)
+[**Dash Katex**](https://github.com/xhlulu/dash-katex) - Katex.js in Python using Dash
 
-[![GitHub forks](https://img.shields.io/github/forks/xhlulu/dash-webcam.svg)](https://github.com/xhlulu/dash-webcam/network)
-[![GitHub stars](https://img.shields.io/github/stars/xhlulu/dash-webcam.svg)](https://github.com/xhlulu/dash-webcam/stargazers)
+[**Dash Draggable**](https://github.com/xhlulu/dash-draggable) - react-draggable in Python
 
 ## Screenshots
 ### t-SNE Explorer
