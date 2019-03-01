@@ -32,6 +32,8 @@ You can find below the list of the Dash Apps and Components I created.
 
 [**Dash Draggable**](https://github.com/xhlulu/dash-draggable) - react-draggable in Python
 
+[**Dash Pivottable**](https://github.com/xhlulu/dash_pivottable) - react-pivottable in Python
+
 ## Screenshots
 ### t-SNE Explorer
 ![tsne](images/tsne.gif)
