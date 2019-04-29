@@ -1,3 +1,6 @@
+# DEPRECATED: Moved to xhlulu/projects
+
+
 # Dash Projects
 You can find below the list of the Dash Apps and Components I created.
 
